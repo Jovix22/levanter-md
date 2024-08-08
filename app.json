@@ -25,7 +25,7 @@
     "PREFIX": {
       "description": "prefix, check for more",
       "required": true,
-      "value": "."
+      "value": ","
     },
     "SESSION_ID": {
       "description": "Put your SESSION_ID here.",
